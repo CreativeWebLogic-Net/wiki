@@ -1,0 +1,44 @@
+Hello Dino, GitHub Legend\\
+
+<html>
+
+<pre>                                                                          
+                                                                          
+                            ...........,`.                                
+    ...,]]]/OOOOOOOO[[[[[[[**..........@O                                 
+     \OOOOOOooooo/********............,@^                                 
+      ,OOOOOooo^******................=@.                                 
+        \OOOooo^****................**OO.                                 
+         .\OOOoo***...............****@\]..                               
+           .\OOo\**..............****=@OOOO@@@]...                        
+             .\Oo**.............****/@@OOOOOOOO@@@@\`.                    
+            .//]/**............***=oo@OOOOOOOOOOO@@@`[@`.                 
+           ,OoOo`*...........****/ooO@OOOOOOOOOOOO@@@@*,\\`               
+         .=OoOo^***....*********oooO@@OOOOOOOOOOO@@@@@@\]]/@`             
+        .=oOOoo******,]oooooooooooOO@@OOOOOOOOOO@@@@@@@@oooo/@.           
+        =OOOoo^***,ooOOO@OOOOOoOOOOO@OOOOOOOOO@@@@@@@@@@@oooo\\^.         
+       ,OOOOoo**=ooOOO@@OOOOOOOOOOO@@OOOOOO@@@@@@@@@@@@@@OOoooo/\.        
+      ./OOOOoooooOOO@@OOOOOOO@OOOOO@@OOOOO@@@@@@@@@@@@@@@OOOOOOO\\.       
+      .OOOOoooooOOO@@OOOOOOOOOO@OO@@@OOOO@@@@@@@@@@@@@@@@OOOOOOO\O^       
+      =OOOOOoooOOO@@OOOOOOOOOOOOO@@@OO@@@@@@@@@@@@@@@@@@@OOOOOOOOo@.      
+      .OOOOOOOOOO@@@OOOOOOOOOOOOOO@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOo@^      
+      .OO@OOOOOO@@@@@@OOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOo@^      
+       ,O@@OOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOOO@.      
+        =O@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOOOO/.      
+         =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOooooOOOOOO@`       
+          ,O@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOoooooOOOOO@^        
+           .\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOOooooooOOOOO@^         
+             .\@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOooooo[ooooOOOOO@`          
+               .,@@@@@@@@@@@@@@@@@@@@@@@@OOOooo[****/ooOOOOOO@.           
+                  .\@@@@@@@@@@@@@@@@@@@@OOOoo`******ooOOOOO@`             
+                     .[@@@@@@@@@@@@@@@@@OOOo\******,ooOOO@@@`.            
+                           .,[@@@@@@@@@@OOOoo\*****/oOOOO@@@@@`           
+                                  .@@@@@OOOOOooooooooOOOO@@@@@@@`         
+                                  =@@@@@@OOOOOOOOOOOOOOOO@@@@@@@@@.       
+                                  =@@@@@@@@@OOOOOOOOOOO@@@@@@@@@@@@\.     
+                                 .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.    
+                                 .@@@@@@@@@@@@@@@OOOOOOOOO[[[[[`....      
+                                                                          
+</pre>
+
+</html>
